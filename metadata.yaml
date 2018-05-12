@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '3938'
     url: http://www.gutenberg.org/2009/agents/3938
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41885#Kwan-yin
 gutenberg_issued: '2013-01-20'
 gutenberg_type: Text
 identifiers:
